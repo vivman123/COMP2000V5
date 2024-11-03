@@ -5,10 +5,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <!-- Include the header layout -->
     <include layout="@layout/header_with_back_button"/>
 
-    <!-- Dashboard content -->
 
     <Button
         android:id="@+id/backbuttonmain"

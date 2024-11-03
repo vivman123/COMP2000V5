@@ -13,7 +13,6 @@
         android:textSize="16sp"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Other views can go here (EditTexts, Buttons, etc.) -->
 
     <Button
         android:id="@+id/book_holiday_button"
